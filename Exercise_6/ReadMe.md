@@ -1,6 +1,6 @@
 ###Tasks for exercise 6
 
-1. -
+1. 
 2. Write a program, which does base64-encoding with input given from a file and
 ouput it to a second file.
 3. Create 10.000 128-bit random keys in Windows-7 (using WinAPI), encode it with
